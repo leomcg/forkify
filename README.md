@@ -1,8 +1,8 @@
 # Forkify
-Aplicativo de receitas em JS puro;
+App that fetches app from an API in vanilla JS, HTML and CSS
 
-Padrão de Projeto: MVC;
+# MVC design pattern
 
-Pega dados de uma remote API;
+# API consumption with async / await
 Webpack;
 Babel;
